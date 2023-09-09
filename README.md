@@ -7,4 +7,4 @@
 ### At the moment there is only Russian, if you want to translate or somehow improve the list, I will only be happy. <br> And I'll add your github username to the thanks list.
 
 ## Language
-### [Russian](./Russian/README.md)
+### [Russian](./Language/RUSSIAN.md)
