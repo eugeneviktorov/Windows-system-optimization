@@ -145,30 +145,34 @@ UPD: Don't forget to click on "Change" and then turn the toggle on or off accord
 - Diagnostics & Feedback - check "Required diagnostic data". Then turn off all options. Feedback frequency (Never). Delete diagnostic data.
 - Activity History - turn off all toggles and checkboxes. Clear activity history.
 
+<br>
+
 TURN ON ALL PERMISSIONS OR TURN OFF ALL PERMISSIONS IN THESE SETTINGS:
-| Permission Name | Action |
-|:---------------------------|------------|
-| Location | TURN ON |
-| Camera | TURN ON |
-| Microphone | TURN ON |
-| Voice Activation | Turn off |
-| Account Info | Turn off |
-| Contacts | Turn off |
-| Calendar | Turn off |
-| Phone Calls | Turn off |
-| Call History | Turn off |
-| Email | Turn off |
-| Tasks | Turn off |
-| Messaging | Turn off |
-| Radios | Turn off |
-| Other Devices | Turn off |
-| Background Apps | Turn off |
-| App Diagnostics | Turn off |
-| Automatic File Downloads | SKIP |
-| Documents | TURN ON |
-| Pictures | TURN ON |
-| Videos | TURN ON |
-| File System | TURN ON |
+
+| Permission Name          | Action   |
+| :----------------------- | -------- |
+| Location                 | TURN ON  |
+| Camera                   | TURN ON  |
+| Microphone               | TURN ON  |
+| Voice Activation         | Turn off |
+| Account Info             | Turn off |
+| Contacts                 | Turn off |
+| Calendar                 | Turn off |
+| Phone Calls              | Turn off |
+| Call History             | Turn off |
+| Email                    | Turn off |
+| Tasks                    | Turn off |
+| Messaging                | Turn off |
+| Radios                   | Turn off |
+| Other Devices            | Turn off |
+| Background Apps          | Turn off |
+| App Diagnostics          | Turn off |
+| Automatic File Downloads | SKIP     |
+| Documents                | TURN ON  |
+| Pictures                 | TURN ON  |
+| Videos                   | TURN ON  |
+| File System              | TURN ON  |
+
 <br>
 
 #### 7. Update and Security
@@ -245,6 +249,8 @@ Settings will open, look for "related links" and open "Advanced system settings"
 - Handwriting Personalization - turn off all toggles. "Clear the custom dictionary".
 - Diagnostics & Feedback - turn off all toggles, and Delete diagnostic data. Feedback frequency (Never).
 - Activity History - turn off all toggles. Clear activity history.
+
+<br>
 
 TURN ON ALL PERMISSIONS OR TURN OFF ALL PERMISSIONS IN THESE SETTINGS:
 

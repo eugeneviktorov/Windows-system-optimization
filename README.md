@@ -8,7 +8,13 @@
 
 ### [English](./Optimization/ENGLISH.md)
 
-### [Russian](./Optimization/RUSSIAN.md)
+### [Русский](./Optimization/RUSSIAN.md)
+
+### [Español](./Optimization/SPANISH.md)
+
+### [Français](./Optimization/FRENCH.md)
+
+### [中國人](./Optimization/CHINESE.md)
 
 <br>
 <br>
